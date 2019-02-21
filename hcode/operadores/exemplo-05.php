@@ -1,0 +1,9 @@
+<?php
+
+//OPERADORES PHP 7
+
+$a = 30;
+$b = 40;
+
+var_dump($a <=> $b); // OPERADOR APONTA A POSICAO DE QUEM É O MAIOR, SENDO 1 O DA ESQUERDA, 0 SE IGUAIS E -1 O DA DIREITA
+?>
